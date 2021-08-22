@@ -1,0 +1,110 @@
+#title
+{
+    background-color: #64C9CF;
+}
+
+.brand
+{
+    margin-left: 2%;;
+}
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item
+{
+    padding: 0 15px;
+}
+h2
+{
+    font-family: 'Merriweather', serif;
+    padding: 3% 10% 0 10%;
+} 
+.head2
+{
+    padding-bottom: 5%;
+}
+.para1
+{
+    padding: 0 10%;
+}
+.intro
+{
+    padding-top: 40px;
+}
+.headbutton
+{
+    margin-left: 10%;
+    margin-top: 15px;
+}
+.title-img
+{
+    width: 40%;
+    margin: 15px 0 15px 175px;
+    
+}
+#skills
+{
+    padding: 7% 15%;
+   
+}
+.skill-box
+{
+    text-align: center;
+}
+.head3
+{
+    font-family: "monsterrat-bold"; 
+}
+.icon1
+{
+    color:#64C9CF;
+    margin-bottom: 1rem;
+}
+.icon1:hover
+{
+    color:black;
+}
+.card1
+{
+    margin-left: 15%;
+}
+.para2
+{
+    margin: 10% 0 0 14%;
+}
+#cards
+{
+    background-color: #64C9CF;
+    padding-bottom: 5%;
+}
+.head2a
+{
+    font-family: 'Merriweather', serif;
+    margin-left:10% ;
+    padding-top:5%;
+    padding-bottom: 3%;
+}
+.endhead
+{
+    color: #ffff;
+    padding-top: 30px;
+} 
+.endpara
+{
+    color: #ffff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}  
+.headbutton1
+{
+    margin-left: 4%;
+    margin-bottom: 10px;
+}
+.foot
+{
+    background-color: #343a40;
+    text-align: center;
+}
+    
